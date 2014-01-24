@@ -16,7 +16,6 @@ unzip:
   pkg:
     - installed
 
-
 /opt/vertx/current/newrelic_agent3.2.2.zip:
   file:
     - managed
